@@ -4,7 +4,7 @@
 </p>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://i.gifer.com/PYh.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" />
 
 
 Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, Shell, currently focused on Software Architecture, Angular, and Blazor (.NET).
@@ -29,4 +29,24 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
+
+
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Psyduck8520&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Psyduck8520)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Psyduck8520&theme=material-palenight)](https://github.com/Psyduck8520)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+
 
