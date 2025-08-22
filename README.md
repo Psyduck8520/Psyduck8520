@@ -4,7 +4,7 @@
 </p>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://i.gifer.com/YlW8.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://i.gifer.com/PYh.gif" />
 
 
 Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, Shell, currently focused on Software Architecture, Angular, and Blazor (.NET).
