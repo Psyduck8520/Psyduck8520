@@ -10,15 +10,14 @@
 <img align="right" width=250px alt="Unicorn" src="https://github.com/Psyduck8520/Psyduck8520/blob/master/hack08_27_01%20p.m..png" />
 
 
-Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, Shell, currently focused on Software Architecture, Angular, and Blazor (.NET).
-* **I am interested in Software Architecture, Web Development, and building inclusive tech solutions**
-- 🌱 I’m currently learning ...
-  - Angular
-  - Blazor (.NET)
-- 👯 I’m looking forward to collaborate on meaningful, open source projects.
-- ✔ Ask me anything — I’m happy to help, only if the ball is in my court! 😉<br>
-- Outside tech, 🐾 I love animals, ✍️ I enjoy writing and blogging, 🎮 building games, and 🌱 exploring ideas to improve the world.
-- 📫 Reach out to me at: <a href="mailto:edison.quimbiamba@ejemplo.com">edison.quimbiambag@gmail.com</a>
+Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, and Shell. Currently focused on Software Architecture, Angular, and Blazor (.NET).
+
+* **I’m interested in Software Architecture, Web Development, and building inclusive tech solutions**
+- 👯 Looking forward to collaborating on meaningful open-source projects.
+- ✔ Ask me anything — happy to help, only if the ball is in my court! 😉<br>
+- Outside tech: 🐾 I love animals, ✍️ enjoy writing and blogging, 🎮 build games, and 🌱 explore ideas to improve the world.
+- 📫 Reach out to me at: <a href="mailto:edison.quimbiambag@gmail.com">edison.quimbiambag@gmail.com</a>
+
 
 
 
