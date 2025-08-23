@@ -20,21 +20,7 @@ Software Engineer from Ecuador with a background in Mechanical Engineering, stro
 - Outside tech, 🐾 I love animals, ✍️ I enjoy writing and blogging, 🎮 building games, and 🌱 exploring ideas to improve the world.
 - 📫 Reach out to me at: <a href="mailto:edison.quimbiamba@ejemplo.com">edison.quimbiambag@gmail.com</a>
 
-__Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-
-----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
