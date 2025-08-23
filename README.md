@@ -18,8 +18,7 @@ Software Engineer from Ecuador with a background in Mechanical Engineering, stro
 - Outside tech: 🐾 I love animals, ✍️ enjoy writing and blogging, 🎮 build games, and 🌱 explore ideas to improve the world.
 - 📫 Reach out to me at: <a href="mailto:edison.quimbiambag@gmail.com">edison.quimbiambag@gmail.com</a>
 
-
-
+<br>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
