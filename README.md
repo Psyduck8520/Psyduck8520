@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-<img align="right" width=250px alt="Unicorn" src="https://github.com/Psyduck8520/Psyduck8520/blob/master/Dise%C3%B1o_sin_t%C3%ADtulo-removebg-preview.png" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Psyduck8520/Psyduck8520/blob/master/Disen%CC%83o_sin_ti%CC%81tulo-removebg-preview.png" />
 
 
 Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, and Shell. Currently focused on Software Architecture, Angular, and Blazor (.NET).
