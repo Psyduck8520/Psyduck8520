@@ -30,13 +30,10 @@ Software Engineer from Ecuador with a background in Mechanical Engineering, stro
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Psyduck8520&theme=material-palenight)](https://github.com/Psyduck8520)
 </div>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ------
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoP-19/RicardoP-19/output/pacman-contribution-graph.svg">
+</picture>
 
