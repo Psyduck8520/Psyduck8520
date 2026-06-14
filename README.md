@@ -11,12 +11,18 @@
 <img  align="right" width=300px alt="Unicorn" src="https://github.com/Psyduck8520/Psyduck8520/blob/master/c4db41f4-d05f-4f7c-9881-536e7bd8ce46-removebg-preview-Photoroom%20(1).png"/>
 
 
-Software Engineer from Ecuador with a background in Mechanical Engineering, strong technical foundation, and experience in C, C++, Python, JavaScript, HTML, and Shell. Currently focused on Software Architecture, Angular, and Blazor (.NET).
+Software Engineer from Ecuador with a strong technical foundation and experience building financial, web, and enterprise solutions.
 
-* **I’m interested in Software Architecture, Web Development, and building inclusive tech solutions**
--  Looking forward to collaborating on meaningful open-source projects.
-- ✔ Ask me anything — happy to help, only if the ball is in my court! <br>
-- Outside tech: 🐾 I love animals, enjoy writing and blogging,  build games, and  explore ideas to improve the world.
+I started with a background in Mechanical Engineering, which shaped the way I solve problems: with structure, logic, and precision. Today, I focus on Software Architecture, Web Development, Angular, Blazor, .NET, and modern backend solutions.
+
+* Interested in Software Architecture, Web Development, Banking Technology, and inclusive tech solutions.
+* Experienced with C, C++, Python, JavaScript, HTML, Shell, Angular, Blazor, .NET, SQL, and enterprise integrations.
+* Currently growing as a Software Engineer with a strong focus on clean architecture, scalable systems, and meaningful software.
+* Looking forward to collaborating on open-source projects that create real value.
+* Ask me anything — happy to help when the ball is in my court.
+
+Outside tech: I love animals, writing, blogging, building small games, learning about architecture, and exploring ideas that can improve the world.
+
 
 <br>
 
