@@ -11,7 +11,7 @@
 <img  align="right" width=300px alt="Unicorn" src="https://github.com/Psyduck8520/Psyduck8520/blob/master/c4db41f4-d05f-4f7c-9881-536e7bd8ce46-removebg-preview-Photoroom%20(1).png"/>
 
 
-Software Engineer from Ecuador with a strong technical foundation and experience building financial, web, and enterprise solutions.
+Software Engineer with a strong technical foundation and experience building financial, web, and enterprise solutions.
 
 I started with a background in Mechanical Engineering, which shaped the way I solve problems: with structure, logic, and precision. Today, I focus on Software Architecture, Web Development, Angular, Blazor, .NET, and modern backend solutions.
 
