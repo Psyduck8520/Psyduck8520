@@ -16,7 +16,6 @@ Software Engineer with a strong technical foundation and experience building fin
 I started with a background in Mechanical Engineering, which shaped the way I solve problems: with structure, logic, and precision. Today, I focus on Software Architecture, Web Development, Angular, Blazor, .NET, and modern backend solutions.
 
 * Interested in Software Architecture, Web Development, Banking Technology, and inclusive tech solutions.
-* Experienced with C, C++, Python, JavaScript, HTML, Shell, Angular, Blazor, .NET, SQL, and enterprise integrations.
 * Currently growing as a Software Engineer with a strong focus on clean architecture, scalable systems, and meaningful software.
 * Looking forward to collaborating on open-source projects that create real value.
 * Ask me anything — happy to help when the ball is in my court.
